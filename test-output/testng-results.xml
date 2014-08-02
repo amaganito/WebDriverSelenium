@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="211152" started-at="2014-07-09T01:44:42Z" finished-at="2014-07-09T01:48:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="211152" started-at="2014-07-09T01:44:42Z" finished-at="2014-07-09T01:48:13Z">
+      <class name="com.bss.credo.AddPhoneTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bss.credo.AddPhoneTest@272ed83b]" name="beforeMethod" is-config="true" duration-ms="210494" started-at="2014-07-08T18:44:42Z" finished-at="2014-07-08T18:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCartDetailsAddingPhoneData()[pri:0, instance:com.bss.credo.AddPhoneTest@272ed83b]" name="testCartDetailsAddingPhoneData" duration-ms="638" started-at="2014-07-08T18:48:12Z" finished-at="2014-07-08T18:48:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCartDetailsAddingPhoneData -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.bss.credo.AddPhoneTest@272ed83b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2014-07-08T18:48:13Z" finished-at="2014-07-08T18:48:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.bss.credo.AddPhoneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
